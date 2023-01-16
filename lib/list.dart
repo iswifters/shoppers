@@ -22,7 +22,7 @@ class _MyFlutterListeState extends State<MyFlutterListe> {
     "Onions",
     "Goat-Meat",
     "Plantain",
-    "Yams",
+    "Yam",
     "Salt",
     "Maggi"
   ];
